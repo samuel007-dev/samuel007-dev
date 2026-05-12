@@ -38,7 +38,7 @@ Full Stack Developer • Software Engineer • Building AI-Powered Applications
 
 ### Tools & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase" />
 </p>
 
 ---
