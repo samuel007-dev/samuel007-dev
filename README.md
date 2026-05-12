@@ -20,7 +20,7 @@ Full Stack Developer • AI Engineer in Progress • Building Intelligent System
 - 💻 Full Stack Web Developer  
 - 🤖 Focused on AI, Machine Learning & Deep Learning  
 - 💬 Building AI chatbots & intelligent assistants  
-- 🌍 Based in Kenya  
+- 🌍 Based in Kenya | Open to global opportunities
 - ⚡ Passionate about scalable systems and real-world solutions  
 - 🎯 Goal: Build impactful AI-powered applications and platforms  
 
@@ -30,7 +30,7 @@ Full Stack Developer • AI Engineer in Progress • Building Intelligent System
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 ### Backend
@@ -40,7 +40,7 @@ Full Stack Developer • AI Engineer in Progress • Building Intelligent System
 
 ### AI • Machine Learning • Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase" />
 </p>
 
 ---
@@ -74,10 +74,9 @@ Modern developer portfolio showcasing skills, projects, and experience.
 
 ## 🌱 Currently Learning
 
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧠 Deep Learning & Neural Networks  
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚡ AI Model Development & Deployment   
 - 💬 Building AI Chatbots & Intelligent Assistants  
-- ⚡ AI Model Development & Deployment  
 - 🏗️ Advanced System Design  
 
 ---
@@ -87,6 +86,10 @@ Modern developer portfolio showcasing skills, projects, and experience.
 <p align="center">
   <a href="https://www.linkedin.com/in/samuelmuriithinjugi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
   </a>
 
   <a href="mailto:samuelmuriithi.dev@gmail.com">
