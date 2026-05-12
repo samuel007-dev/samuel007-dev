@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Samuel (@samuel007-dev)</h1>
 
 <h3 align="center">
-Full Stack Developer • Software Engineer • Building AI-Powered Applications
+Full Stack Developer • AI Engineer in Progress • Building Intelligent Systems
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;AI-Powered+Systems+Developer;React+%2B+Next.js+%2B+Laravel;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Chatbots+%26+Intelligent+Systems;Python+%2B+FastAPI+%2B+Next.js;Always+Learning+New+Technologies+🚀" />
 </p>
 
 ---
@@ -18,9 +18,11 @@ Full Stack Developer • Software Engineer • Building AI-Powered Applications
 ## 🚀 About Me
 
 - 💻 Full Stack Web Developer  
-- 🤖 Passionate about AI + modern web technologies  
-- 🚀 Focused on scalable and impactful digital solutions  
-- ⚡ Currently building AI-powered platforms and intelligent systems  
+- 🤖 Focused on AI, Machine Learning & Deep Learning  
+- 💬 Building AI chatbots & intelligent assistants  
+- 🌍 Based in Kenya  
+- ⚡ Passionate about scalable systems and real-world solutions  
+- 🎯 Goal: Build impactful AI-powered applications and platforms  
 
 ---
 
@@ -28,31 +30,31 @@ Full Stack Developer • Software Engineer • Building AI-Powered Applications
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,php,laravel,mysql,postgresql" />
 </p>
 
-### Tools & AI
+### AI • Machine Learning • Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,vercel,supabase" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 Rental House Management System
-Full-stack rental management platform for handling tenants, payments, and property records.
-
 ### 💼 Smart Job Application Platform
-AI-powered platform for CV generation, application tracking, and smart job matching.
+AI-powered system for job matching, CV generation, and application tracking.
+
+### 🏠 Rental House Management System
+Full-stack platform for managing tenants, rent payments, and property records.
 
 ### 🌐 Portfolio Website
-Modern responsive developer portfolio showcasing projects, skills, and achievements.
+Modern developer portfolio showcasing skills, projects, and experience.
 
 ---
 
@@ -72,9 +74,10 @@ Modern responsive developer portfolio showcasing projects, skills, and achieveme
 
 ## 🌱 Currently Learning
 
-- 🤖 Artificial Intelligence & Machine Learning
-- ⚡ AI Model Development & Integration   
-- 💬 Building AI Chatbots & Intelligent Assistants    
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧠 Deep Learning & Neural Networks  
+- 💬 Building AI Chatbots & Intelligent Assistants  
+- ⚡ AI Model Development & Deployment  
 - 🏗️ Advanced System Design  
 
 ---
@@ -82,14 +85,10 @@ Modern responsive developer portfolio showcasing projects, skills, and achieveme
 ## 📫 Connect With Me
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/samuelmuriithinjugi">
+  <a href="https://www.linkedin.com/in/samuelmuriithinjugi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-  </a>
-  
   <a href="mailto:samuelmuriithi.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
@@ -102,5 +101,9 @@ Modern responsive developer portfolio showcasing projects, skills, and achieveme
 </p>
 
 <p align="center">
-⭐ Building impactful software, one project at a time.
+⭐ Building intelligent software that solves real-world problems.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
 </p>
