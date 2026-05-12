@@ -82,7 +82,7 @@ Modern responsive developer portfolio showcasing projects, skills, and achieveme
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/samuelmuriithinjugi">
+   <a href="https://www.linkedin.com/in/samuelmuriithinjugi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
