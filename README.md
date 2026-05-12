@@ -33,7 +33,7 @@ Full Stack Developer • Software Engineer • Building AI-Powered Applications
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs,mysql,postgresql" />
 </p>
 
 ### Tools & AI
