@@ -35,7 +35,7 @@ Full Stack Developer • AI Engineer in Progress • Building Intelligent System
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,php,laravel,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,laravel,mysql,postgresql" />
 </p>
 
 ### AI • Machine Learning • Tools
